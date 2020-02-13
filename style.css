@@ -1,0 +1,22 @@
+body {
+  background-color: #282C34;
+  color: #9BA2AE;
+
+  font-family: 'Quicksand', sans-serif;
+  font-size: 1.5em;
+}
+
+a:link, a:visited, a:active {
+ color: #00d9e0;
+}
+
+a:hover {
+ color: #cc0096;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
