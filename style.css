@@ -7,7 +7,8 @@ body {
 }
 
 a:link, a:visited, a:active {
- color: #00FFFF;
+  color: #00FFFF;
+  text-decoration: none;
 }
 
 a:hover {
@@ -19,4 +20,8 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+h3 {
+  text-decoration: underline;
 }
